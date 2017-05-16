@@ -1,0 +1,19 @@
+{
+  "name": "cordovayoutubevideoplayer",
+  "version": "1.0.0",
+  "description": "**Play Youtube Videos in a native Video Player on Android &amp; iOS.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuddyLReno/CordovaYoutubeVideoPlayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuddyLReno/CordovaYoutubeVideoPlayer/issues"
+  },
+  "homepage": "https://github.com/BuddyLReno/CordovaYoutubeVideoPlayer#readme"
+}
